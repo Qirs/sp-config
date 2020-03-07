@@ -9,9 +9,7 @@ spring:
       override-none: true
   application:
     name: user-service
-  cloud:
-    config:
-      override-none: true
+ 
 server:
   port: 8001
   
