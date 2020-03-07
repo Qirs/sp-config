@@ -8,7 +8,7 @@ spring:
     config:
       override-none: true
   application:
-    name: user-service-dev
+    name: user-service
   cloud:
     config:
       override-none: true
